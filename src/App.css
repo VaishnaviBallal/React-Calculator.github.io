@@ -1,0 +1,38 @@
+.result {
+  height: 60px;
+  background-color: #bbb;
+  width: 100%;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+.calculator-body {
+  max-width: 400px;
+ margin-left:600px;
+ margin-top:45px;
+  margin-bottom: 150px;
+  
+
+}
+
+.button {
+  display: block;
+  background-color: #090909;
+ 
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://media.licdn.com/dms/image/C4E12AQFmJy7fQIA8ZQ/article-cover_image-shrink_600_2000/0/1643302115901?e=2147483647&v=beta&t=MEdaFRHhyRoxlNGyfClABf2iLDiy6Pfs3CIKI9C9ZU8");
+  background-size: 500px;
+}
